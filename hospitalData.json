@@ -1,0 +1,32 @@
+[
+  {
+    "name": "MIKS",
+    "patientCount": 10045,
+    "location": "TRIVANDRUM"
+  },
+  {
+    "name": "AMRITAM",
+    "patientCount": 1500,
+    "location": "KOCHI"
+  },
+  {
+    "name": "AL SHIFA",
+    "patientCount": 10850,
+    "location": "SAUDI"
+  },
+  {
+    "name": "GOVT TVM",
+    "patientCount": 270550,
+    "location": "TRIVANDRUM"
+  },
+  {
+    "name": "JUBILEE MISSION",
+    "patientCount": 56450,
+    "location": "THRISSUR"
+  },
+  {
+    "name": "GOVT PALAKKAD",
+    "patientCount": 14620,
+    "location": "PALAKKAD"
+  }
+]
